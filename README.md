@@ -5,8 +5,6 @@
 #### Проверка доступных форматов 
 #### png
 ![image](https://user-images.githubusercontent.com/76069143/146624466-2a22d14e-3f8f-4c05-a8bc-68fb4750716a.png)
-#### jpg
-![image](https://user-images.githubusercontent.com/76069143/146624489-ac8dca5f-0a2c-4c15-89f8-5bb0d684aa83.png)
 #### При запуске формата не из списков разрешенний, то выводится ошибка 404
 ![image](https://user-images.githubusercontent.com/76069143/146624735-ac310d7e-cd75-4821-b319-6a46bffc4488.png)
 #### При запуске файла, которого нет в директории, то выводится ошибка 403
